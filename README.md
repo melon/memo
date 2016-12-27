@@ -1,3 +1,3 @@
 # memo
 
-please view memos in **[ISSUES](./issues)**
+please view memos in **[ISSUES](https://github.com/melon/memo/issues)**
